@@ -9,3 +9,6 @@ This repo contains various projects on Image classification and computer vision.
 # Tracking Object :
       There are two projects in this catagoery , one is for single object tracker and other is for multi-object tracker.
       This project is done using different cv2 object trackers.  
+
+# Yolo Object Detector:
+       This project uses yolo and cv2 for the obejct and person's face detection. 
