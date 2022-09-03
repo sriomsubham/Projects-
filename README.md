@@ -12,3 +12,6 @@ This repo contains various projects on Image classification and computer vision.
 
 # Yolo Object Detector:
        This project uses yolo and cv2 for the obejct and person's face detection. 
+
+# Course Projects:
+       This folder contains simple projects. 
