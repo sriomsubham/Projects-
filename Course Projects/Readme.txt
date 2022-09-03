@@ -1,1 +1,1 @@
-Projects are from simplilearns Masters in A.I. program.
+Projects are from Simplilearns Masters in A.I. program.
