@@ -6,5 +6,7 @@ The projects are follows:-
   3. Data Science (most methods/libraries were used)
   4. LSTM
   5. Recommendation System.
+  
+AIE project link https://github.com/AniketKapoor/AIE-FrontEnd
 
 
